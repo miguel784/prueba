@@ -8,6 +8,7 @@ body
 {
   margin: 0px;
   padding: 0px;
+  background: black no-repeat center top;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 12pt;
   font-weight: 300;
@@ -262,7 +263,6 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
 #header-wrapper
 {
   overflow: hidden;
-  height: 40em;
 }
 
 #header
