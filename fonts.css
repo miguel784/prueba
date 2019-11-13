@@ -30,7 +30,7 @@
 
 	/*
 		Powered by:
-		
+
 		Font Awesome (http://fortawesome.github.com/Font-Awesome/)
 		Font Awesome More (http://gregoryloucas.github.com/Font-Awesome-More/)
 	*/
@@ -80,7 +80,7 @@
 		.icon-remove:before               { content: "\f00d"; }
 		.icon-zoom-in:before              { content: "\f00e"; }
 
-		.icon-zoom-out:before             { content: "\f010"; }
+		.icon-zoom-out:before             { content: "\33FF"; }
 		.icon-off:before                  { content: "\f011"; }
 		.icon-signal:before               { content: "\f012"; }
 		.icon-cog:before                  { content: "\f013"; }

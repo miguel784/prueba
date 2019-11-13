@@ -12,7 +12,7 @@ body
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 12pt;
   font-weight: 300;
-  color: #000000;
+  color: #64FF33;
 }
 
 
@@ -151,7 +151,7 @@ ul.contact li a:before
   color: #FFFFFF;
 }
 
-ul.contact li a.icon-twitter:before { background: #2DAAE4; }
+ul.contact li a.icon-twitter:before { background: #33FF4C; }
 ul.contact li a.icon-facebook:before { background: #39599F; }
 ul.contact li a.icon-dribbble:before { background: #C4376B;	}
 ul.contact li a.icon-tumblr:before { background: #31516A; }
@@ -291,7 +291,7 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
 #logo a
 {
   text-decoration: none;
-  color: #FFF;
+  color: #3386FF;
 }
 
 /*********************************************************************************/
@@ -347,7 +347,7 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
   width: 1000px;
   margin-top: 3em;
   padding: 4em 100px 3em 100px;
-  background: #FFF;
+  background: #33F6FF;
 }
 
 
