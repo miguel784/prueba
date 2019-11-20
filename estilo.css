@@ -44,7 +44,7 @@ strong
 
 a
 {
-  color: #CA6F1E;
+  color: #030300;
 
 }
 
@@ -136,7 +136,7 @@ ul.contact li span
 
 ul.contact li a
 {
-  color: #FFF;
+  color: #EE200B;
 }
 
 ul.contact li a:before
@@ -321,7 +321,7 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
 {
   text-decoration: none;
   padding: 1em 1.5em;
-  color: #FFF;
+  color: #F7F709;
 }
 
 #menu li:hover a, #menu li.active a, #menu li.active span
@@ -347,9 +347,34 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
   width: 1000px;
   margin-top: 3em;
   padding: 4em 100px 3em 100px;
-  background: #33F6FF;
+  background: #D6EE0B;
 }
-
+form{
+  margin:0 auto;
+  width: 400px;
+  padding: 1em;
+  border: 1px solid #CCC;
+  border-radius: 1em;
+}
+for div+div{
+  margin.top: 1em;
+}
+label{
+  display:inline.block;
+  width: 90px;
+  text-align: right;
+}
+input,textarea{
+  font: 1em sans-serif;
+  width: 300px;
+  -moz-box-sizing: border-box;
+  box-sizing:border-box;
+  border: 1px solid #999
+}
+input:focus, textarea:focus{
+background-color: #F7F709
+  border-color: #000
+}
 
 #welcome h2
 {

@@ -164,13 +164,13 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
 {
   display: inline-block;
   padding: 1em 2em 1em 2em;
-  background: #96063b;
+  background: #D6EE0B;
   letter-spacing: 0.20em;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 0.90em;
-  color: #FFF;
+  color: #D6EE0B;
 }
 
 .button:before
@@ -270,7 +270,7 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
   position: relative;
   margin-top: 3em;
   padding: 3em 0em;
-  background: #96063b;
+  background: #EE200B;
 }
 
 /*********************************************************************************/
