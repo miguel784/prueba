@@ -165,7 +165,7 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
 {
   display: inline-block;
   padding: 1em 2em 1em 2em;
-  background: #96063b;
+  background: #64ff33;
   letter-spacing: 0.20em;
   text-decoration: none;
   text-transform: uppercase;
@@ -270,7 +270,7 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
   position: relative;
   margin-top: 3em;
   padding: 3em 0em;
-  background: #96063b;
+  background: #ee200b;
 }
 
 /*********************************************************************************/
@@ -392,7 +392,7 @@ background-color: #F7F709
   overflow: hidden;
   width: 1000px;
   padding: 7em 100px 3em 100px;
-  background: #FFF;
+  background: #ee200b;
 }
 
 #page .boxA,
