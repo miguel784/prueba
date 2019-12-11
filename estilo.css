@@ -12,7 +12,7 @@ body
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 12pt;
   font-weight: 300;
-  color: #64FF33;
+  color: #f2f2f2;
 }
 
 
@@ -44,7 +44,7 @@ strong
 
 a
 {
-  color: #030300;
+  color: #f2f2f2;
 
 }
 
@@ -165,7 +165,7 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
 {
   display: inline-block;
   padding: 1em 2em 1em 2em;
-  background: #64ff33;
+  background:#ee200b;
   letter-spacing: 0.20em;
   text-decoration: none;
   text-transform: uppercase;
@@ -321,7 +321,7 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
 {
   text-decoration: none;
   padding: 1em 1.5em;
-  color: #F7F709;
+  color: #f2f2f2;
 }
 
 #menu li:hover a, #menu li.active a, #menu li.active span
@@ -347,7 +347,8 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
   width: 1000px;
   margin-top: 3em;
   padding: 4em 100px 3em 100px;
-  background: #D6EE0B;
+  background: #ee200b;
+
 }
 form{
   margin:0 auto;
